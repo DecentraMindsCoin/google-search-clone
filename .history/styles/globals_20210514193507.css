@@ -1,0 +1,7 @@
+/* ./styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* import from tailwind.css and delete preset css */
+•

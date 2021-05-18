@@ -1,0 +1,12 @@
+/* ./styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+.link {
+  @apply hover
+}
+}
+
+/* import from tailwind.css and delete preset css */

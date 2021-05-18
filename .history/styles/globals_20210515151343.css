@@ -1,0 +1,17 @@
+/* ./styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply bg-;
+  }
+.link {
+  @apply hover:underline cursor-pointer;
+ 
+  }
+}
+
+/* import from tailwind.css and delete preset css */
+/* add with @apply to hover link as a modifier and cursor pointer */
