@@ -7,7 +7,6 @@ import Footer from '../components/Footer';
 import { useRef } from "react";
 import { useRouter } from 'next/router';
 
-
 export default function Home() {
 
   const router = useRouter();
@@ -54,7 +53,9 @@ export default function Home() {
        
         {/* Avatar */}
 
-        <Avatar url='https://coaching.papareact.com/ai9' />    
+   <Avatar url="https://media.graphassets.com/AVY6vnFWRnqtxCvqvYFA" />  
+
+         
         </div>
       </header>
 
